@@ -47,6 +47,9 @@ npm install
 npm start
 ```
 
+# Preview your project
+Open Expo Client on your device. Scan the QR code printed by npm start with Expo Client (Android) or Camera (iOS). You may have to wait a minute while your project bundles and loads for the first time.
+
 
 
 
